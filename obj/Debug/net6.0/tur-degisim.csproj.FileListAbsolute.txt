@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\bin\Debug\net6.0\tur-degisim.exe
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\bin\Debug\net6.0\tur-degisim.deps.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\bin\Debug\net6.0\tur-degisim.runtimeconfig.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\bin\Debug\net6.0\tur-degisim.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\bin\Debug\net6.0\tur-degisim.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\refint\tur-degisim.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\tur-degisim.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\tur-degisim\obj\Debug\net6.0\ref\tur-degisim.dll
